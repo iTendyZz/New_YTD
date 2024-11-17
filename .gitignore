@@ -1,0 +1,5 @@
+/.venv
+/db.db
+/main_data.json
+/rutube_vid_info.txt
+/__pycache__
